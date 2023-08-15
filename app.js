@@ -20,8 +20,8 @@ const backLayer6 = document.getElementById('layer6');
 const playerImage = document.getElementById('playerImage');
 const enemyForStageOne = new Image();
 enemyForStageOne.src = "da/assets/raven.png";
-const boom = new Image();
-boom.src = "da/assets/boom.png";
+const boom = documant.getElementById('ss');
+
 const enemyForStageOneWidth = 271;
 const enemyForStageOneHeight = 194;
 const birdHeight = 100;
