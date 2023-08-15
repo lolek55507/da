@@ -15,6 +15,6 @@ body {
     width: 200px;
     height: 200px;
 }
-#layer1 , #layer2, #layer3, #layer4, #layer5 , #layer6, #layer0, #enemyForStageOne {
+#layer1 , #layer2, #layer3, #layer4, #layer5 , #layer6, #layer0, #enemyForStageOne, #ss {
     display: none;
 }
